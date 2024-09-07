@@ -1,0 +1,19 @@
+.body {
+  background-color: #cbc6c6;
+}
+
+.header {
+  font-size: 22px;
+  line-height: 30px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(223, 217, 37);
+}
+
+.titlePage {
+  font-size: 22px;
+  line-height: 30px;
+  font-weight: bold;
+}

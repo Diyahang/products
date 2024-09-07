@@ -1,0 +1,21 @@
+.body {
+  background-color: #f7f7f7;
+  height: 100vh;
+}
+
+.header {
+  font-size: 22px;
+  line-height: 30px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(56, 86, 53);
+  color: white;
+}
+
+.titlePage {
+  font-size: 22px;
+  line-height: 30px;
+  font-weight: bold;
+}
