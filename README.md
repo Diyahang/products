@@ -1,3 +1,10 @@
+Jalankan code dengan npm run start
+Dependencies yang perlu diinstal yaitu:
+npm install @mantine/core @mantine/hooks
+npm install axios
+npm install react-router-dom
+npm install tabler/icon
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
